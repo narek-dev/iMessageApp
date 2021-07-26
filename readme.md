@@ -43,7 +43,7 @@ cd ../
 npm run start
 ```
 
-and in the another bash
+and in another bash run this
 
 ```bash
 npm run ios
