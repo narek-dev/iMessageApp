@@ -27,5 +27,7 @@ const s = StyleSheet.create({
         borderColor: '#0a273b',
         borderWidth: 1,
         borderStyle: 'solid',
+        paddingHorizontal: 15,
+        paddingVertical: 10,
     }
 })
